@@ -1,7 +1,11 @@
-i# bubbles-and-pointers
+## bubbles-and-pointers
 CS-121 Project to practice C and use a bubble sort
 
-The purpose of this project is to practice C. The program will take an array and sort it from lowest to highest using the bubble method.
+The purpose of this project is to practice C. The program will take an array and sort it from lowest to highest using the bubble method. 
+
+Here is the algorithm -
+
+
 ```
 
 constant MAX is the max length of the array
