@@ -50,7 +50,6 @@ function printValues (array)
 function swap (a, b)
 	create temporary value 
 	temp gets the value of a 
-	copy the value of b to the address of b 
-	copy temp to the value of b
-
+	a gets values of b 
+	b gets value of a 
 	```
